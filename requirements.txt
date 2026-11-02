@@ -1,0 +1,32 @@
+# Core Frameworks
+langchain>=0.2.14
+langchain-core>=0.2.35
+langchain-community>=0.2.12
+langgraph>=0.2.14
+
+# Embeddings & Vector Stores
+sentence-transformers>=3.0.1
+chromadb>=0.5.5
+rank-bm25>=0.2.2
+
+# Document Processing & OCR
+pymupdf>=1.24.9
+python-docx>=1.1.2
+pytesseract>=0.3.10
+Pillow>=10.4.0
+
+# Knowledge Graph & Data
+networkx>=3.3
+pandas>=2.2.2
+pydantic>=2.8.2
+sqlalchemy>=2.0.32
+
+# Evaluation & Metrics
+ragas>=0.1.14
+pytest>=8.3.2
+
+# Frontend & API
+streamlit>=1.38.0
+fastapi>=0.112.2
+uvicorn>=0.30.6
+python-dotenv>=1.0.1

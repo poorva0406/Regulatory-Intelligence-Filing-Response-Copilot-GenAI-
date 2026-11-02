@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  copilot-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: regulatory_intelligence_copilot
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./evaluation:/app/evaluation
+    environment:
+      - ENVIRONMENT=production
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - LOCAL_MODEL_FALLBACK=true
+    restart: unless-stopped

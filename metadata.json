@@ -1,0 +1,6 @@
+{
+  "name": "Regulatory Intelligence & Filing Response Copilot",
+  "description": "End-to-End GenAI, Advanced RAG, Knowledge Graph & Multi-Agent Copilot for Commercial Insurance Filings and Regulatory Objections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
