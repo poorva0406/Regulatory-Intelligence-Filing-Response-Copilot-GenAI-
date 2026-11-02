@@ -270,8 +270,3 @@ docker-compose up --build
 - **OCR Enhancements**: Scanned PDF processing can be enhanced with vision LLMs (e.g., Gemini 3.8 Flash layout parsing) for handwritten DOI examiner margin notes.
 - **Automated SERFF API Integration**: Future iterations could integrate directly with the NAIC SERFF API to automatically ingest objection letters and submit approved response packages.
 
----
-
-## 10. License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
