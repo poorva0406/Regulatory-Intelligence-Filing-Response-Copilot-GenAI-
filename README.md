@@ -7,7 +7,7 @@
 [![NetworkX](https://img.shields.io/badge/Knowledge_Graph-NetworkX-1F77B4?style=for-the-badge)](https://networkx.org)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](LICENSE)
 
-> **IMPORTANT DISCLAIMER:** This project is an independent portfolio demonstration prototype developed to showcase practical expertise in Python, GenAI, advanced RAG, multi-agent orchestration, document intelligence, and responsible AI. It does not claim affiliation with The Hartford, Travelers, Chubb, or any specific insurance carrier, nor does it access their proprietary internal systems, documents, or data.
+> **IMPORTANT DISCLAIMER:** This project is an independent portfolio demonstration prototype developed to showcase practical expertise in Python, GenAI, advanced RAG, multi-agent orchestration, document intelligence, and responsible AI. It does not claim affiliation with any specific insurance carrier, nor does it access their proprietary internal systems, documents, or data.
 
 ---
 
